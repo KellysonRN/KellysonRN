@@ -1,12 +1,18 @@
-Hello there! 
+![](https://komarev.com/ghpvc/?username=KellysoNRN&style=for-the-badge)
+<a href="https://www.linkedin.com/in/kellyson-santos-rn">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-.NET Full Stack Developer 💻<br />
+Hello there! My name is Kellyson Santos...  
+
+I'm a .NET Full Stack Developer 💻 and Software Consultant at [Thoughtworks](https://github.com/thoughtworks). I graduated from IFRN in 2009. I have strong skills as a backend Core Developer in .Net and C#, I've been improving my skills for Software Architecture. I like to learn new technologies and ways to apply them, I'm curious by nature and I really like technology.
+
+<br />
+
+![KellysonRN GitHub Stats](https://github-readme-stats.vercel.app/api?username=KellysonRN&show_icons=true)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=KellysonRN)
 
 <strong>Follow me:</strong><br />
 <br />
-<a href="https://www.linkedin.com/in/kellyson-santos-rn">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.twitch.tv/KellysonRN">![image](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
-<a href="https://www.instagram.com/kellysonvictor/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+
 
 <strong>Skills:</strong><br />
 
@@ -20,10 +26,7 @@ Hello there!
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<strong>Clouds:</strong><br />
+<strong>Cloud:</strong><br />
 
 ![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=KellysonRN&theme=blue-green)
-![iamge](https://github-readme-stats.vercel.app/api?username=KellysonRN&theme=blue-green)
